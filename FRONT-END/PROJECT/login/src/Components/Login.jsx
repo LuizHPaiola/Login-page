@@ -65,7 +65,7 @@ export default function Login(){
                                     />
                             
                         </div>
-                        <input type="submit" />
+                        <button>Login</button>
                     </fieldset>
                 </form>
             </div>

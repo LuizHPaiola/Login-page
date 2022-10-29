@@ -39,7 +39,7 @@ public class UserDAO {
 			}
 		}
 		
-		System.out.println("The user "+ u.getLogin()+ "tryed to log at "+ Calendar.getInstance().getTime());
+		System.out.println("The user "+ u.getLogin()+ " tryed to log at "+ Calendar.getInstance().getTime());
 		return null;
 	}
 }
