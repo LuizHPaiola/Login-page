@@ -1,5 +1,7 @@
 package LoginPage.resource;
 
-public class UserResource {
+import javax.ws.rs.Path;
 
+@Path("/login")
+public class UserResource {
 }
