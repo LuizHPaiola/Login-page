@@ -44,7 +44,7 @@ export default function Login(){
                     <fieldset>
                         <legend>LOGIN</legend>
                         <div>
-                            <label htmlFor="idLogin">User</label>
+                            <label htmlFor="idLogin">Use</label>
                             <input 
                                 type="text"
                                 name="login"
@@ -65,7 +65,7 @@ export default function Login(){
                                     />
                             
                         </div>
-                        <button>Login</button>
+                        <input type="submit" />
                     </fieldset>
                 </form>
             </div>
